@@ -4,7 +4,7 @@
 void displayMenu();
 Boolean validateOption(int );
 
-//bacteries* breedingGround();
-void breedingGround();
+
+bacteria** breedingGround();
 
 #endif

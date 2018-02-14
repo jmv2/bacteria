@@ -12,6 +12,6 @@ typedef struct{
   char type;
   int cycles;
   neighbors n;
-}bacteries;
+}bacteria;
 
 #endif
